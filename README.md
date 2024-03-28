@@ -7,7 +7,7 @@
 
 ## Kali
 
-![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/794ff043-1ac6-47a4-9274-e1a64226f784)
+![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/a71bbd2a-7440-46db-8ad2-bdbfe44d0798)
 
 
 ## Clock
