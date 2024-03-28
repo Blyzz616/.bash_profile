@@ -2,15 +2,18 @@
 
 ## Debian
 
-![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/8487611b-5876-4922-aca5-2b520e31afbf)
+![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/aa97b365-14d1-49e3-b31e-7d75cef4e730)
+
 
 ## Kali
 
-![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/0dfdda12-22a3-4089-9664-a7c773cdfa43)
+![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/794ff043-1ac6-47a4-9274-e1a64226f784)
+
 
 ## Clock
 
-![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/823e69ca-e053-4401-a45a-fda2f7cee150)
+![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/ac2488ed-8d31-4096-8d7f-fbd24eb69aef)
+
 
 ## Plex
 
