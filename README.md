@@ -17,6 +17,7 @@
 
 ## Plex
 
-![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/c3a010f3-6f6c-427c-850c-83f9a005c97f)
+![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/d8f6b883-a93c-47c3-aa7d-ef93ee5600b2)
+
 
 
