@@ -22,4 +22,7 @@ Tool to convert image to ascii: [ASCIIart Generator](https://www.asciiart.eu/ima
 ![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/d8f6b883-a93c-47c3-aa7d-ef93ee5600b2)
 
 
+## Mist
+
+![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/477fa443-c00f-4e10-98fa-12806b1c7fef)
 
