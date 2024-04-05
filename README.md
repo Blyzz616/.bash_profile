@@ -35,3 +35,8 @@ Tool to convert image to ascii: [ASCIIart Generator](https://www.asciiart.eu/ima
 ## Spiffo
 
 ![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/1e21945f-551d-4007-a6f5-9c5111c6a8ef)
+
+
+## Relaxed
+
+![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/40f7c40d-13eb-4bd4-b6de-cb61db183b5d)
