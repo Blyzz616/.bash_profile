@@ -30,3 +30,8 @@ Tool to convert image to ascii: [ASCIIart Generator](https://www.asciiart.eu/ima
 ## Zomboid
 
 ![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/3b2a3af4-7ece-463e-9345-b16dc3c33689)
+
+
+## Spiffo
+
+![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/1e21945f-551d-4007-a6f5-9c5111c6a8ef)
