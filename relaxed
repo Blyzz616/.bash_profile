@@ -5,27 +5,27 @@ echo -e "
   –WA\e[0;31mEEE\e[0;0m·^•1ÎmEEEEEENEEÆÆÁEÈR5º                   \e[0;0m:@éÁEEEÆÆENþEEEEEA®sï(¡²;¦*†<MÊ¸
    EE\e[0;31mEEEEEEEEEEEEEEE\e[0;0m…—¿ï}xÛEþWÆ#ØÆè¿           lâÆØÁÆÈEEEX®¿}¡’\e[0;31mEEEEEEEEEEEEEEEE\e[0;0m¨EŽ
    ÙØ†\e[0;31mEEEEEEEEEEEEEEEEEEEEEE\e[0;0m‚~aßNEÆM#NF>     \e[1;30mvåÆÆE\e[0;0mNÛT)\e[0;31mEEEEEEEEEEEEEEEEEEEEEEEEE\e[0;0m/Bè
-   zÆh\e[0;31mEEEEEEEEEEEEEEEEEEEEEEEEEE\e[0;0m‹°‡ÙEEÆÆÆÆÆÆØ\e[1;30mÆÆÖo~‹\e[0;31mEEEEEEEEEEEEEEEEEEEEEEEEEEEE\e[0;0môŒ3
+   zÆh\e[0;31mEEEEEEEEEEEEEEEEEEEEEEEEEE\e[0;0m‹°‡ÙEEÆÆÆÆÆÆØ\e[2;31m\e[1;30mÆÆÖo\e[0;0m\e[1;30m~‹\e[0;31mEEEEEEEEEEEEEEEEEEEEEEEEEEEE\e[0;0môŒ3
    …pE^\e[0;31mEEEEEEEE\e[0;0m‹¬íDÜò¯|;\e[0;31mEEEEEEEEEEEEEE\e[0;0m¤ÒNEÃÆÆÚv\e[2;31myyyyy\e[0;31mEEEE\e[0;0m‹+{ÁÆÆEªju[«+‹\e[0;31mEEEEEEEE\e[0;0m˜AÀ”
     ùÆÍ;\e[0;31mEEEEEEE\e[0;0m”¦AÆÈÆQþÁEâ©!|‘\e[0;31mEEEEEEEEE\e[0;0m‹+ïl+|‹|¯¸\e[2;31mEEEEEE\e[0;0m‹(=áENNÁÃQE#Îº”\e[0;31mEEEEEEE\e[0;0m‹rÆk
     ª#Æ²‹\e[0;31mEEEEEE\e[0;0m‹7FÆ¬äÆÆMEæÆËNþqU+\e[0;31mEEEEEEEEE\e[0;0m‚|•‹‘‹)\e[2;31myyyy\e[0;0m\e[1;30m¡eq\e[0;0mNÁÆÆEØÆÆÁk¼qP)‹\e[0;31mEEEEEE\e[0;0m‘‹ÅÆ×
-     òÆÈ(\e[0;31mEEEEEEE\e[0;0m‹ÈÆ@     UÆÆÈÁÆŽ=ï+‹\e[0;31mEEEEEEEE\e[0;0m‹|¯‹‡+\e[2;31myy\e[0;0m\e[1;30mÆþØÆ\e[0;0mBö       öÆÉö\e[0;31mEEEEEEEE\e[0;0m¦AÆ0
-      @ÆÃ=\e[0;31mEEEEEEE\e[0;0m‹ËÆñ<       ’¢Æë‹³–ª‹\e[0;31mEEEEEEEEE\e[0;0m‹++3¶\e[1;30mÒ0‘\e[0;0m       (eÆÈî’\e[0;31mEEEEEEE\e[0;0m¹äÆú·
-       îÉH×\e[0;31mEEEEEEE\e[0;0m‹(¥ÆÆö      \e[1;30m³äÆ5\e[0;0mj(‹ °„‹\e[0;31mEEEEEEEE\e[0;0m‹ÈÆ@\      °üÉÆd*‹\e[0;31mEEEEEEE\e[0;0m”UÈk:
+     òÆÈ(\e[0;31mEEEEEEE\e[0;0m‹ÈÆ@     UÆÆÈÁÆŽ=ï+‹\e[0;31mEEEEEEEE\e[0;0m‹|¯‹‡+\e[2;31myy\e[2;31m\e[1;30mÆþ\e[0;0m\e[1;30mØÆ\e[0;0mBö       öÆÉö\e[0;31mEEEEEEEE\e[0;0m¦AÆ0
+      @ÆÃ=\e[0;31mEEEEEEE\e[0;0m‹ËÆñ<       ’¢Æë‹³–ª‹\e[0;31mEEEEEEEEE\e[0;0m‹++3¶\e[2;31m\e[1;30mÒ0‘\e[0;0m       (eÆÈî’\e[0;31mEEEEEEE\e[0;0m¹äÆú·
+       îÉH×\e[0;31mEEEEEEE\e[0;0m‹(¥ÆÆö      \e[2;31m\e[1;30m³äÆ5\e[0;0mj(‹ °„‹\e[0;31mEEEEEEEE\e[0;0m‹ÈÆ@\      °üÉÆd*‹\e[0;31mEEEEEEE\e[0;0m”UÈk:
         ‰ÉÄ(‹\e[0;31mEEEEEEEE\e[0;0miÈÆŽ@   ×\e[1;30måÆÞ\e[0;0m ‹ –ª‹;++‹\e[0;31mEEEEEEE\e[0;0m\e[1;30m‹ÈÆ¥+\e[0;0m   @ÁÆX‡;\e[0;31mEEEEEEE\e[0;0m‹²åÊñ«
-        ˆuÆÈ³’\e[0;31mEEEEEEE\e[0;0m‹»kÆ\e[1;30mÆÉ©\e[0;0mùÆÆOº‹\e[2;31myyyy\e[0;0m°«³«ï‹\e[0;31mEEEEEEE\e[0;0m\e[1;30m‹ÙÆÆf\e[0;0mÎþÆØY„˜\e[0;31mEEEEEEEE\e[0;0m‹XÆT„
-          @ÆÉ>\e[0;31mEEEEEEEEE\e[0;0m²\e[1;30m°PÆ\e[0;0mÆÆ#r’\e[0;31mEE\e[2;31myyyyy\e[0;0m°zRÆ\e[1;30mk*‹\e[2;31myyyyyy\e[0;0m‹;¤ÆÆÆÂk*‹\e[0;31mEEEEEEEE\e[0;0m¨)ËÆ&;
-           uÆÆF*‹\e[0;31mEEEEEEE\e[0;0m\e[1;30m‹<ˆ\e[0;0mF®˜‹\e[0;31mEEEEEEEE\e[1;30miËÆ\e[1;30mÆÆË‹\e[2;31myyyy\e[0;0m‹+»„ 4u„‹\e[0;31mEEEEEEEE\e[0;0m‹«ZÆÆ@
+        ˆuÆÈ³’\e[0;31mEEEEEEE\e[0;0m‹»kÆ\e[1;30mÆÉ©\e[0;0mùÆÆOº‹\e[2;31myyyy\e[0;0m°«³«ï‹\e[0;31mEEEEEEE\e[0;0m\e[1;30m‹Ù\e[2;31m\e[1;30mÆÆf\e[0;0mÎþÆØY„˜\e[0;31mEEEEEEEE\e[0;0m‹XÆT„
+          @ÆÉ>\e[0;31mEEEEEEEEE\e[0;0m\e[1;30m²°\e[2;31m\e[1;30mPÆ\e[0;0mÆÆ#r’\e[0;31mEE\e[2;31myyyyy\e[1;30m°zRÆk*‹\e[2;31myyyyyy\e[0;0m‹;¤ÆÆÆÂk*‹\e[0;31mEEEEEEEE\e[0;0m¨)ËÆ&;
+           uÆÆF*‹\e[0;31mEEEEEEE\e[2;31m\e[1;30m‹<ˆ\e[0;0mF®˜‹\e[0;31mEEEEEEEE\e[1;30miËÆÆÆË‹\e[2;31myyyy\e[0;0m‹+»„ 4u„‹\e[0;31mEEEEEEEE\e[0;0m‹«ZÆÆ@
             ìáÆÉs–\e[0;31mEEEE\e[2;31myyy\e[0;0m‘l”jª\e[0;31mEEEEEEEE\e[0;0m‹àÆJ   \e[1;30m@Æñ\e[0;0mjïïï+‹‹++‹\e[0;31mEEEEEEEE\e[0;0m‹ªçÑÆdj
               @ÈÆGl\e[0;31mEE\e[2;31myyyy\e[0;0miˆi…\e[0;31mEEEEEEE\e[0;0m‹lXÆI   \e[1;30mòÆê\e[0;0mª·”‹++‹\e[0;31mEEEEEEEEE\e[0;0m‹¦÷XÆÄ@
-               !¾ÊÆD¿‚\e[2;31myyy\e[0;0m{ª*—\e[0;31mEEEEEEE\e[1;30m‹l«@ÆÆE\e[0;0mÆÆ+j=ïï+‹\e[0;31mEEEEEEEEEE\e[0;0m‹+„ÇÆÆ&›
+               !¾ÊÆD¿‚\e[2;31myyy\e[0;0m{ª*—\e[0;31mEEEEEEE\e[0;0m‹l«@ÆÆE\e[0;0mÆÆ+j=ïï+‹\e[0;31mEEEEEEEEEE\e[0;0m‹+„ÇÆÆ&›
                  1y\e[1;30mÆÆ§\e[2;31myy\e[0;0m\e[0;0m°j…=…\e[0;31mEEEEEEE\e[0;0m++«l\e[1;30mvbEá\e[0;0m=}„·\e[0;31mEEEEEEEEEEEE\e[0;0m²*„kÆÆêI
-                   ½\e[1;30mmÆÆkz\e[0;0ml+ï\e[0;31mEEEEEEEE\e[0;0mï‹j‹\e[2;31mmyyyy\e[0;31mEEEEEEEEEEEEE\e[0;0m‹+ï¹&ÆÆW@
-                     \e[1;30m@ÄÆÆ\e[0;0móïï\e[0;31mEEEEEEE\e[0;0mˆíˆï\e[2;31myyyyy\e[0;31mEEEEEEEEE\e[0;0m‹+ï*“+{ÆÆÊ@
+                   ½\e[1;30mmÆ\e[2;31m\e[1;30mÆkz\e[0;0ml+ï\e[0;31mEEEEEEEE\e[0;0mï‹j‹\e[2;31mmyyyy\e[0;31mEEEEEEEEEEEEE\e[0;0m‹+ï¹&ÆÆW@
+                     \e[1;30m@\e[2;31m\e[1;30mÄÆÆ\e[0;0móïï\e[0;31mEEEEEEE\e[0;0mˆíˆï\e[2;31myyyyy\e[0;31mEEEEEEEEE\e[0;0m‹+ï*“+{ÆÆÊ@
                        @ÆÆ=ï\e[0;31mEEEEEEE\e[0;0m³íºj‹\e[2;31myyyy\e[0;31mEEE\e[0;0m³}ïï×”²” °:3ÆÆ™‘
                         @Æáï\e[0;31mEEEEEEE\e[0;0m³í¬b\e[1;30mŠEEE\e[0;0mEEEåLì+‹›”‘+ï*’áÆ@
-                         ÆW«\e[0;31mEEEEEEE\e[0;0mˆìTÆ\e[1;30mÆEEE\e[0;0mEEEÆÆrlj×”\e[2;31myyyyy\e[0;0m\e[1;30m”ÁÆ\e[0;0m
-                         ÒÆ=ˆ\e[0;31mEEEEEEE\e[0;0m×mÆ“        \e[1;30møÆ¿\e[2;31myyyyyyyy\e[0;0m\e[1;30m“ÁÆ\e[0;0m
+                         ÆW«\e[0;31mEEEEEEE\e[0;0mˆìTÆ\e[1;30mÆEEE\e[0;0mEEEÆÆrlj×”\e[2;31myyyyy\e[2;31m\e[1;30m”ÁÆ\e[0;0m
+                         ÒÆ=ˆ\e[0;31mEEEEEEE\e[0;0m×mÆ“        \e[2;31m\e[1;30møÆ¿\e[2;31myyyyyyyy\e[0;0m\e[1;30m“ÁÆ\e[0;0m
                          >ÆP¦\e[0;31mEEEEEEE\e[0;0m¬§Æ@       \e[1;30mÆp…‹\e[2;31myyyyy\e[0;31mAE\e[1;30m‹)Æ\e[0;0m
                          …ÅÆ7\e[0;31mEEEEEEE\e[0;0m‹ÈÆö      ¢ÆÈ‹\e[0;31mEEEEEEE\e[0;0m+àÆj
                           @Æ§‚\e[0;31mEEEEEEE\e[0;0m‹²ÑÆ% JÆÈº‹\e[0;31mEEEEEEE\e[0;0m‹„ÆÉ·
@@ -40,5 +40,6 @@ echo -e "
                                    *SHÆÅñî¡lšÆÆåv
                                      „µ#ÆÆEÆÆAu
                                         vmÆŽJ
+
 
 \e[0;0m"
