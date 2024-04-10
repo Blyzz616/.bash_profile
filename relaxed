@@ -1,4 +1,4 @@
-clear; echo -e "
+clear;echo -e "
 
   –Yß#Á#Rãdbžu“                                                     –j2SáÞGÅÆÆÆÆM£¸
   ¯ëqEEEEEEENÈ#EEEEEQÆÆÆÊa:                              …Ï#ÆÆÂEEEEE#QÁEEEþ#þEEEÆê‘
@@ -22,7 +22,7 @@ clear; echo -e "
                  1y\e[1;30mÆÆ§\e[2;31myy\e[0;0m\e[0;0m°j…=…\e[0;31mEEEEEEE\e[0;0m++«l\e[1;30mvbEá\e[0;0m=}„·\e[0;31mEEEEEEEEEEEE\e[0;0m²*„kÆÆêI
                    ½\e[1;30mmÆ\e[2;31m\e[1;30mÆkz\e[0;0ml+ï\e[0;31mEEEEEEEE\e[0;0mï‹j‹\e[2;31mmyyyy\e[0;31mEEEEEEEEEEEEE\e[0;0m‹+ï¹&ÆÆW@
                      \e[1;30m@\e[2;31m\e[1;30mÄÆÆ\e[0;0móïï\e[0;31mEEEEEEE\e[0;0mˆíˆï\e[2;31myyyyy\e[0;31mEEEEEEEEE\e[0;0m‹+ï*“+{ÆÆÊ@
-                       @ÆÆ=ï\e[0;31mEEEEEEE\e[0;0m³íºj‹\e[2;31myyyy\e[0;31mEEE\e[0;0m³}ïï×”²” °:3ÆÆ™‘
+                        \e[0;0mÆÆ=ï\e[0;31mEEEEEEE\e[0;0m³íºj‹\e[2;31myyyy\e[0;31mEEE\e[0;0m³}ïï×”²” °:3ÆÆ™‘
                         @Æáï\e[0;31mEEEEEEE\e[0;0m³í¬b\e[1;30mŠEEE\e[0;0mEEEåLì+‹›”‘+ï*’áÆ@
                          ÆW«\e[0;31mEEEEEEE\e[0;0mˆìTÆ\e[1;30mÆEEE\e[0;0mEEEÆÆrlj×”\e[2;31myyyyy\e[2;31m\e[1;30m”ÁÆ\e[0;0m
                          ÒÆ=ˆ\e[0;31mEEEEEEE\e[0;0m×mÆ“        \e[2;31m\e[1;30møÆ¿\e[2;31myyyyyyyy\e[0;0m\e[1;30m“ÁÆ\e[0;0m
@@ -43,3 +43,5 @@ clear; echo -e "
 
 
 \e[0;0m"
+
+source ~/.bashrc
