@@ -39,4 +39,5 @@ Tool to convert image to ascii: [ASCIIart Generator](https://www.asciiart.eu/ima
 
 ## Relaxed
 
-![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/40f7c40d-13eb-4bd4-b6de-cb61db183b5d)
+![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/2d7e9a18-6834-4a45-bfbc-7f5c8eb32c18)
+
