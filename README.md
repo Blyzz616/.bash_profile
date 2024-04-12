@@ -42,3 +42,6 @@ Tool to convert image to ascii: [ASCIIart Generator](https://www.asciiart.eu/ima
 ![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/03d33016-6102-4ea0-86a8-5b64997b8506)
 
 
+## LDAP
+
+![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/482be748-649f-4eee-a0bd-5d7f9e97c279)
