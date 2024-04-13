@@ -40,3 +40,4 @@ clear; echo -e "\e[34m
                                                                                                @
                                                                                                >"
 echo -e "\e[7m\e[0m"
+source ~/.bashrc
