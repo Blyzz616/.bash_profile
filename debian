@@ -44,3 +44,4 @@ clear; echo -e "\e[1;31m                                  èÒåÿÿÿÿÒÿÒÿ
                 ÿÿÞ
                   Öåè"
 echo -e "\e[7m\e[0m"
+source ~/.bashrc
