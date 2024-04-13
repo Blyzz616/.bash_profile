@@ -47,3 +47,4 @@ clear; echo -e "
                                         \e[94m*@@\e[34m@@%*
                                            \e[34m=
 \e[0;0m"
+source ~/.bashrc
