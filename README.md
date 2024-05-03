@@ -48,6 +48,4 @@ Tool to convert image to ascii: [ASCIIart Generator](https://www.asciiart.eu/ima
 
 ## Nessus
 
-![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/537b9d90-5f26-41c3-85e2-f73ddb35d2ce)
-
-
+![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/d8051ba1-cf18-4af1-93b6-0ffd5bacc7c8)
