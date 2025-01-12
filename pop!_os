@@ -1,0 +1,29 @@
+echo -e "\033[0;36m
+
+                  aaaababaaaaab
+              ababbbbbbbbbbbbbbbaaba
+           aaabbbbbbaaaabbbbbbbbbbbbaaa
+         0abbaaaa       baabbbaabbbbbbaa0
+        abbbbaa           aabbbbbbbbbbbbba
+      aabbbaa     aaab     babababbabbbbbaaa
+      abbbbaa     abba0     abbbbbbaabbbbaaa
+     abbbbbbaa     abaa     abba    abbbbbbba
+    aabbbbbbaaa     aaaa   babbb    bbbbbabbaa
+    abbbbbbbbaaa     c    abbbb     bbbbbbbbba
+    abbbaababbbaa       0aabbaa    abbabbabbaa
+    abbbbabbbaabba    baaabbbba   bbbbbbabbbbb
+    abbbbbbbbbbbbaa    aabbbbaa  aabbbbbbbbbbb
+    abbbbbbbbbabaaaa    abbbbaa ababbbbbaabbba
+    bbbbbbbabbbbbaabc   abbbbaaabbbababbbbbbaa
+     abbbbbbbbbbbbbbba   aabba babbbbbbbbbbba
+      abbbbbbbabbbbbabaaababaa abbbbbbbbbbba
+      aabbbbbbaaaaaaaaaaabaabaaaabaabbbbbaaa
+        aababa                      abbbaa
+         aabbbbbbbbbbbbbbbbbbbbbbbbbbbaba
+           aabbbbabbbbaababbbbbaabaabab
+              aaaabbbbbbbabbbabbaabb
+                  aaaaaabbbaaaba
+
+\033[0m
+
+"
