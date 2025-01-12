@@ -55,3 +55,8 @@ Tool to convert image to ascii: [ASCIIart Generator](https://www.asciiart.eu/ima
 ## Pi-Hole
 
 ![image](https://github.com/Blyzz616/.bash_profile/assets/19424317/4ff7fffb-8cc9-4816-8bc2-b1c00a86d79d)
+
+## Jellyfin
+
+![image](https://github.com/user-attachments/assets/4b320b04-dfa4-4ee2-8404-4540cbed41f0)
+
