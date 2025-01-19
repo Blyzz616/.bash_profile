@@ -1,0 +1,25 @@
+echo -e "\033[0;34m
+
+                                   hkkkkkkkkkkkû
+                                kkkkkkkkkkkkkkkkkkk
+                              kkkkkkkkkkŸkkkkkŸkkkkkk
+            kkkkkkh         kkkkkkkkkkkkkkkkkkkkkkkkkŸk         ûÝkkkkk
+        §kkkkkkkkkkkkk     kkkkkkkŸkÝ         ûkkkkkkŸkk     kkkkkkkkkkkkkk
+      §kkkkkkŸkkkkkkkkkk  kkkkkkkkh              kkkkkkkk® kŸkkkŸkkkkkkkkkkk§
+     ŸkkkkkkkkkkkŸkkkkkkkkkkkkkŸk                 kkkkkŸkŸkkkkkkŸkkŸkkkkkkkkkŸ
+    Ýkkkkkkkk    kkkkkkkkkkkŸkkk                   kkkkkŸkkkkkkkkk    Ýkkkkkkkk
+    kkkkkkŸ        kkkkkkkkkkkkk                   kkkkkkkkkkkŸk        kkkkkkk
+    kkkkkkk        ûkkkkkkkkkkk                     kkkkkkkkkkkŸ        kkkkkkk
+    kkkkkkk        kkkkŸkkkkkkkÝ                   kkkkkkkkkkŸkk        kkkkkkk
+    kkkkkkŸkk    kkkkkkkkkkkkkkŸ                   kkkkkkkkkkkkkkÝ    kkkŸkkkkŸ
+     ÝkkkkkkkkkkkkkkkkkkkÝkkkkkkk                 kkkkkkkÝkkkkkkkkkkkkŸkkkkkkŸ
+      kkkkkkkkkkkkkkkkkÝ  kkkkkkkkÝ              kŸkkkkkkk kkkkkkkkkkkkkkkkkk
+        Ÿkkkkkkkkkkkkk     kkŸkkkkkkÝ         kÝkkkkkkkk     kkkkkkkkkkkkkÝ
+            kÝkkkk®         kkkkŸkkkkkkkkkkkkkŸkkkkkkkk          ŸÝkkk§
+                              kkkkkkkkkkkkkkkkkkkkkkk
+                                kkkkkŸkkkkkkkkkkkkk
+                                   kkŸkkkkkŸkkkû
+
+
+\033[0m"
+source ~/.bashrc
