@@ -1,4 +1,4 @@
-(Copy Pasta Below)[]
+(Copy Pasta Below)[#copy]
 
 # Reset
 Color_Off='\033[0m'       # Text Reset  
