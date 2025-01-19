@@ -30,3 +30,4 @@ echo -e "
     
 \033[0m
 "
+source ~/.bashrc
