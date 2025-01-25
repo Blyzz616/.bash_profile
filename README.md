@@ -73,3 +73,7 @@ Tool to convert image to ascii: [ASCIIart Generator](https://www.asciiart.eu/ima
 ## Proxmox
 
 ![image](https://github.com/user-attachments/assets/a8863acf-db47-4673-86ff-ad734e0bf354)
+
+## Zabbix
+
+![image](https://github.com/user-attachments/assets/2fbe886c-6621-4d0d-9f72-317410fad80e)
